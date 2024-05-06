@@ -11,6 +11,6 @@ Analista-de-Datos---TSCDIA---2023
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Grupo+de+trabajo+ISPC..&hearts;++;Proyecto+Final+de+Ciencia+de+Datos,;Etelvina+Valvasori,;Sofia+Carla+Angiolini,;Ariel+Giordano,;Trinidad+Ayan,;Maria+Gabriela+Lopez,;Fernanda+Quiroga,;Edgar+Herrera,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Grupo+de+trabajo+ISPC..&hearts;++;Proyecto+Final+de+Ciencia+de+Datos,;Etelvina+Valvassori,;Sofia+Carla+Angiolini,;Ariel+Giordano,;Trinidad+Ayan,;Maria+Gabriela+Lopez,;Fernanda+Quiroga,;Edgar+Herrera,;Love+to+learn+new+stuffs..<3"></a>
 </p>	
 
