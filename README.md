@@ -21,6 +21,6 @@ Angiolini|Sofía Carla | Sigue  | https://github.com/SofiaAngiolini|
 Quiroga | Fernanda| Sigue | https://github.com/Fernanda63|
 Valvassori|Etelvina Graciela | Sigue| https://github.com/EtelvinaValvassori|
 López| María Gabriela| Abandono por salud| https://github.com/papeldearroz|
- Donati| Camila |Sigue  | https://github.com/SofiaAngiolini|
+ Donati| Camila |Sigue  | https://github.com/camidonati|
 Giordano | Ariel Eduardo | Sigue| https://github.com/GIORDIAR|
 Herrera |Edgar Fabián |Sigue|https://github.com/dgarherrera2023|
