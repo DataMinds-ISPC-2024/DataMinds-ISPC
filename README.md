@@ -67,6 +67,7 @@ Donati| Camila | --NO continua-- | https://github.com/camidonati|
        Mejorar el ambiente laboral puede incrementar la innovación y productividad en la industria biotecnológica, beneficiando tanto a los empleados como a la sociedad a través de mejores productos.
        
 7. # Visión del proyecto
+    "Convertir el Análisis de Datos de Satisfacción Laboral en un modelo ejemplar dentro de la industria de la biotecnología, creando un entorno laboral óptimo buscando no solo resolver los problemas inmediatos, sino también crear un impacto duradero en las empresas y en la industria en general, donde cada empleado se sienta valorado, motivado y comprometido, llevando a una mayor retención de talento y a un crecimiento sostenido e innovador para las empresas. Mediante un análisis exhaustivo y data-driven de la satisfacción laboral, el proyecto no solo mejorará las dinámicas internas, sino que ***establecerá un estándar en la industria de la biotecnología para la gestión efectiva de recursos humanos***, fomentando un clima organizacional que impulse tanto la creatividad como la productividad."
      * ### Objetivos
        * #### Objetivo General
          Mejorar la satisfacción y retención de los empleados de BioTech Innovations S.A. mediante el análisis detallado de sus perfiles laborales.
