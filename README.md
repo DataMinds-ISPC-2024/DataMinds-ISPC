@@ -93,6 +93,6 @@ Donati| Camila | --NO continua-- | https://github.com/camidonati|
     Berenson, M., & Levine, D. (1996). Estadística básica en administración: Conceptos y aplicaciones (6ª ed.). Prentice Hall Hispanoamericana. 
      * ### Nota
        Debido a la dificultad para encontrar un dataset que cumpliera con los requisitos, creamos uno nosotros mismos. Combinamos los datos de una hoja de cálculo en Excel y la modificamos basándonos en una encuesta de recursos humanos reportada en el libro: “Estadística básica en administración: Conceptos y aplicaciones” de Mark L. Berenson y David M. Levine (1996). Por último, dado que el dataset ya estaba depurado, incorporamos algunos datos erróneos para poder realizar el análisis requerido por el proyecto.
-12. # Anexo
+11. # Anexo
     ### Encuesta de satisfacción y condiciones laborales en BioTech Innovations S.A. 
 
